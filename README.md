@@ -44,6 +44,5 @@ If you'd like to collaborate on a project or have any questions, don't hesitate 
 *  **Fernanda Rodrigues**
 
 Please follow on github and join us! <br />
-Thanks to visiting me and good coding!
+Thanks to visiting me and happy coding! 👩‍💻
 
-![image](https://github.com/feer-rodriguess90/Fortune-500-Data-Analysis-Project/blob/main/Logo-DataViz.png)
